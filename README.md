@@ -8,6 +8,9 @@ kamu bisa menggunakan aplikasi ini untuk automation:
 
 <img width="1444" height="1072" alt="image" src="https://github.com/user-attachments/assets/03baece5-741c-43f6-b5c2-12c06d8cb4f6" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/713cd6f1-24c0-48de-b933-595f0c8f11a2" />
+
+
 ## 🚀 Fitur Utama
 * **BDD Approach:** Menggunakan format *Given-When-Then* untuk keterbacaan skenario.
 * **Sequential Execution:** Menjalankan tes secara berurutan sesuai penomoran file (01_login, 02_checkout, dst).
