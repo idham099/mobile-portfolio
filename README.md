@@ -21,6 +21,20 @@ kamu bisa menggunakan aplikasi ini untuk automation:
     * **Automatic Cache Clearing:** Perintah `pm clear` dijalankan setelah setiap skenario untuk memastikan aplikasi selalu *fresh*.
     * **Session Management:** `browser.reloadSession()` dipanggil setelah setiap file selesai untuk mencegah *memory leak*.
 * **Smart Reporting:** Allure Report interaktif dengan *screenshot* otomatis saat error maupun saat berhasil mencapai langkah penting.
+* Struktur Folder
+```
+/mobile-portfolio
+├── features/               # Skenario tes (BDD)
+│   ├── 01_login.feature    # Skenario Login
+│   ├── 02_checkout.feature # Skenario Belanja
+├── features/step-definitions/
+│   ├── login.steps.ts      # Logika kode untuk Login
+│   ├── checkout.steps.ts   # Logika kode untuk Checkout
+├── allure-config/          # Konfigurasi laporan
+├── wdio.conf.ts            # Konfigurasi WebDriverIO utama
+├── package.json            # Daftar dependencies & script
+└── .gitignore              # Proteksi file sensitif
+```
 
 ## 🛠 Prerequisites
 * Node.js (Versi 18+)
