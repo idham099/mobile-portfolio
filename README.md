@@ -2,6 +2,10 @@
 
 Framework pengujian otomatis untuk aplikasi mobile Android (SwagLabs) yang dirancang untuk stabilitas tinggi, kemudahan pelaporan, dan alur kerja yang sistematis.
 
+kamu bisa menggunakan applikasi ini untuk automation:
+Mobile App: https://github.com/saucelabs/sample-app-mobile/releases
+Web App: https://www.saucedemo.com/
+
 ## 🚀 Fitur Utama
 * **BDD Approach:** Menggunakan format *Given-When-Then* untuk keterbacaan skenario.
 * **Sequential Execution:** Menjalankan tes secara berurutan sesuai penomoran file (01_login, 02_checkout, dst).
