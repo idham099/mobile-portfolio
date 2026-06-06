@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "types": [
+      "node",
+      "webdriverio",
+      "@wdio/globals/types",
+      "@wdio/cucumber-framework"
+    ],
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true
+  },
+  "include": [
+    "features/**/*.ts",
+    "wdio.conf.ts"
+  ]
+}

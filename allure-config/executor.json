@@ -1,0 +1,8 @@
+{
+  "name": "Ainul idham",
+  "type": "wdio",
+  "reportName": "Mobile Swaglabs Suite",
+  "reportUrl": "http://localhost:3000",
+  "buildName": "Sprint 26 - full feature tests",
+  "buildOrder": "1"
+}

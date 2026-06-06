@@ -1,0 +1,18 @@
+<environment>
+    <parameter>
+        <key>Platform</key>
+        <value>Android Emulator (Pixel 7)</value>
+    </parameter>
+    <parameter>
+        <key>App Version</key>
+        <value>1.0.0-Beta</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>Staging</value>
+    </parameter>
+    <parameter>
+        <key>Test Framework</key>
+        <value>WebDriverIO &amp; Appium</value>
+    </parameter>
+</environment>

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Isu Timeout (Sistem Lambat)",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*timeout.*"
+  },
+  {
+    "name": "Isu Validasi Input (Bug Data)",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*AssertionError.*"
+  },
+  {
+    "name": "Isu Akses Elemen (UI Tersembunyi/Keyboard)",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*not interactable.*|.*no such element.*"
+  }
+]
