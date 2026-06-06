@@ -4,6 +4,7 @@ Framework pengujian otomatis untuk aplikasi mobile Android (SwagLabs) yang diran
 
 kamu bisa menggunakan aplikasi ini untuk automation:
 1. Mobile App: https://github.com/saucelabs/sample-app-mobile/releases
+2. Link demo youtube saya : https://www.youtube.com/watch?v=4BROFq0MGWY
 
 
 <img width="1444" height="1072" alt="image" src="https://github.com/user-attachments/assets/03baece5-741c-43f6-b5c2-12c06d8cb4f6" />
