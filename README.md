@@ -74,7 +74,7 @@ Kami menerapkan best practice di dalam wdio.conf.ts untuk stabilitas:
         after: async function (result, capabilities, specs) {
             await browser.reloadSession();
         },
-    ```
+```
 
 ## 📄 License
 Proyek ini dilisensikan di bawah MIT License. Silakan gunakan untuk keperluan portofolio atau pengembangan profesional Anda.
