@@ -10,6 +10,9 @@ kamu bisa menggunakan aplikasi ini untuk automation:
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/713cd6f1-24c0-48de-b933-595f0c8f11a2" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6dd0ba16-eb47-44f3-854c-326a05dc5c01" />
+
+
 
 ## 🚀 Fitur Utama
 * **BDD Approach:** Menggunakan format *Given-When-Then* untuk keterbacaan skenario.
