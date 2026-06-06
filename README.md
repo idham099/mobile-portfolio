@@ -1,4 +1,4 @@
-# Mobile Automation Framework (WebdriverIO + Cucumber + Appium)
+# Mobile Automation Framework (Appium + Cucumber)
 
 Framework pengujian otomatis untuk aplikasi mobile Android (SwagLabs) yang dirancang untuk stabilitas tinggi, kemudahan pelaporan, dan alur kerja yang sistematis.
 
