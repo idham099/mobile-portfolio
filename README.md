@@ -60,7 +60,7 @@ Framework ini didesain agar Anda tidak perlu pusing dengan emulator yang hang. B
 
 ## 📋 Konfigurasi Hooks (wdio.conf.ts)
 Kami menerapkan best practice di dalam wdio.conf.ts untuk stabilitas:
-    ```
+    ```bash
     // Membersihkan cache setelah skenario
         afterScenario: async function (world, result, context) {
             await browser.execute('mobile: shell', { command: 'pm clear com.swaglabsmobileapp' });
