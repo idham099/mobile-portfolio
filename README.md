@@ -23,8 +23,8 @@ kamu bisa menggunakan aplikasi ini untuk automation:
 ## ⚙️ Instalasi
 1. Clone repositori ini:
    ```bash
-   git clone <URL_REPOSITORI_ANDA>
-   cd <NAMA_FOLDER_PROYEK>
+   git clone https://github.com/idham099/mobile-portfolio.git
+   cd mobile-portfolio
    ```
 2. Install dependencies:
    ```bash
@@ -64,8 +64,7 @@ Framework ini didesain agar Anda tidak perlu pusing dengan emulator yang hang. B
 
 ## 📋 Konfigurasi Hooks (wdio.conf.ts)
 Kami menerapkan best practice di dalam wdio.conf.ts untuk stabilitas:
-    
-    ```bash
+   ```bash
     // Membersihkan cache setelah skenario
         afterScenario: async function (world, result, context) {
             await browser.execute('mobile: shell', { command: 'pm clear com.swaglabsmobileapp' });
