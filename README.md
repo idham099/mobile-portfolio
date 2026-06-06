@@ -6,6 +6,8 @@ kamu bisa menggunakan aplikasi ini untuk automation:
 1. Mobile App: https://github.com/saucelabs/sample-app-mobile/releases
 
 
+<img width="1444" height="1072" alt="image" src="https://github.com/user-attachments/assets/03baece5-741c-43f6-b5c2-12c06d8cb4f6" />
+
 ## 🚀 Fitur Utama
 * **BDD Approach:** Menggunakan format *Given-When-Then* untuk keterbacaan skenario.
 * **Sequential Execution:** Menjalankan tes secara berurutan sesuai penomoran file (01_login, 02_checkout, dst).
